@@ -141,7 +141,7 @@ I enjoy designing systems involving:
 # 📫 Contact
 
 * Email: [julianpuleciogomez@gmail.com](mailto:julianpuleciogomez@gmail.com)
-* LinkedIn: [www.linkedin.com/in/julian-pulecio]([http://www.linkedin.com/in/julian-pulecio](https://www.linkedin.com/in/julian-david-pulecio-gomez-026870183))
+* LinkedIn: [www.linkedin.com/in/julian-pulecio](https://www.linkedin.com/in/julian-david-pulecio-gomez-026870183)
 * Location: Bogotá, Colombia
 
 ---
